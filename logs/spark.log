@@ -1,0 +1,5 @@
+INFO:root:This is an INFO-level message.
+INFO:root:joined dataframe for user and transaction
+INFO:root:Count of unique locations where each product is sold
+INFO:root:products bought by each user.
+INFO:root:Total spending done by each user on each product.
